@@ -15,3 +15,21 @@ Pentru a-ti face un aliniat nou trebuie dat 2 de enter sau sa dai de 2 ori spati
 
    
  ![Tux, the Linux mascot](Koala.jpg)
+
+
+|Date     | Aliniere la stanga | aliniere centarta| aliniere la dreapta
+| ---------| :----------- |:------: |-----------------------------------------: |
+| 16.06.2023  | v1.0       | Vasilica Onuta | draft
+| 16.07.2023  | v1.1       | Vasilica Onuta | Add test results for functional
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+My favorite search engine is [Google](https://google.com).
+
