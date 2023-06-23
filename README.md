@@ -33,3 +33,8 @@ Pentru a-ti face un aliniat nou trebuie dat 2 de enter sau sa dai de 2 ori spati
 
 My favorite search engine is [Google](https://google.com).
 
+Pentru a mari sau miscora o imagine
+
+
+<img height="100" src="New folder/Koala.jpg" width="100"/>
+
