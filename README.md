@@ -12,4 +12,6 @@ Pentru a-ti face un aliniat nou trebuie dat 2 de enter sau sa dai de 2 ori spati
    1. Test
    2. Test 2
 4. Fourth item
- ![Tux, the Linux mascot](/assets/images/tux.png)
+
+   
+ ![Tux, the Linux mascot](Koala.jpg)
